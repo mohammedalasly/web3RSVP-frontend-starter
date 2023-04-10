@@ -1,21 +1,23 @@
 # Web3RSVP-frontend
 
-### Fork and clone the repo from Github to work with it locally
+## Dapp deom (by 30 days of web3)
 
-1. Click the "Fork" button
+we will build a frontend for our dapp using React, Next.js, ethers.js, Rainbowkit, Web3.Storage, and The Graph. Our app will work with Coinbase Wallet or other user-controlled wallets like MetaMask, Rainbow, and WalletConnect. Users will be able to connect their wallet and interact with our smart contract so they can create new events, RSVP to events, and confirm attendees.
 
-2. In your account's forked github repo, click the "Code" button and copy the repo link.
+### Quick start:
 
-3. Open your terminal.
+1. Clone the repo
 
-4. CD into the repo 
+2. cd to the project in your terminal
 
-5. Install dependencies `npm i`
+3. Run the command `npm i` to Install dependencies
 
-6. Run the development server
+4. Run the development server
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   **Wallet**: _Coinbase_
+
+-   **Testnet**: _Mumbai_
